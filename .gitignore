@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.pio
+*.bin
+
+# Ignore build and temporary files
+/.pio/
+/.vscode/
+/lib/
+/libdeps/
+/test/
+
+# Ignore any logs or databases
+*.log
+*.db
